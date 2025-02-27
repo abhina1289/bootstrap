@@ -1,0 +1,18 @@
+.nav-item:hover{
+    background-color: rgba(255,255,255,0.5);
+
+}
+#home{
+    height: 90vh;
+    background-image: url("https://c.wallhere.com/photos/9d/46/road_wood_winter_snow_trees_sunlight_beams_shades-777416.jpg!d");
+    
+}
+.bg-text{
+    backdrop-filter: blur(10px);
+    text-shadow: 5px 5px 5px black;
+}
+#Services{
+    height: 40vh;
+    background-image: url("https://wallup.net/wp-content/uploads/2016/01/260175-winter-sunrise-valley-snow-mountain-nature-landscape-sky-clouds-trees-mist-shrubs.jpg");
+    ;
+}
